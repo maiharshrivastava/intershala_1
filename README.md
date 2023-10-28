@@ -23,5 +23,5 @@ Add streamlined action buttons for quick and efficient order handling.
 Excitement About the Role:
 I am enthusiastic about this role because it offers an opportunity to contribute to a product that directly impacts the efficiency and service quality of restaurants and food trucks. This aligns perfectly with my passion for enhancing user experiences and leveraging technology to streamline operations. Being part of the Dinify team would expose me to real-world challenges and innovations in the restaurant industry, contributing significantly to my professional growth.
 
-GitHub Repository Link:https://github.com/maiharshrivastava                                                                                                                                    
+                                                                                                                                 
  Demo project:https://restuarantt.vercel.app/
